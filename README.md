@@ -1,11 +1,10 @@
 <h1 align="center">
   <br>
   <img src="https://ngrx.io/assets/images/badge.svg" width="200">
-  <br><br>
-  Página - To-Do
+  <br><br> 
+  <a href="https://martinbobbio.github.io/pagina-todo">Página - To-Do</a><
   <br>
 </h1>
-<h4 align="center"><a href="https://github.com/martinbobbio/frontend-adminpro">Página - To-Do</a></h4>
 
 
 ## Descripción
